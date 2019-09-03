@@ -13,9 +13,9 @@ public class Main {
 
         /**
          *
-         * The project involves building a 2-level product.
+         * This module involves building a 2-level product.
          * A PC product with a Monitor component
-         * ----------------------------------------------------------------------------------------------------
+         * -------------------------------------------------------------------------------------------------------------
          * STEP #1: Create model classes with fields that match the description of products & subproducts
          * include getters and toString() - (check model package)
          * STEP #2: Create all interfaces with the appropriate setters (check builder package) - make sure that
@@ -23,7 +23,7 @@ public class Main {
          * STEP #3: Create Implementation classes for interfaces in step 1; Make sure to include a
          * build() method that conclude the creation of the product (check builderimpl package)
          * STEP #4: Write director Classes responsible for assigning initial values (check director package)
-         * -------------------------------------------------------------------------------------------------
+         * -------------------------------------------------------------------------------------------------------------
          *
          *  */
 
